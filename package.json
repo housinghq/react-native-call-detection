@@ -1,6 +1,6 @@
 {
   "name": "@housing/react-native-call-detection",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "Get different phone call states for iOS and Android",
   "main": "index.js",
   "repository": {
